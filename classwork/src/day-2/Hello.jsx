@@ -1,4 +1,3 @@
-// HelloWorld.js
 
 import React from 'react';
 
