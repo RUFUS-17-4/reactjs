@@ -1,7 +1,7 @@
-import Hello from "./day-2/Hello";
+import Line from "./day-2/Line";
 export default function app()
 {
   return(
-    <Hello></Hello>
+    <Line></Line>
   );
 }
