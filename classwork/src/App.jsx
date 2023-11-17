@@ -1,8 +1,8 @@
-import BasicForm from "./day-2/BasicForm";
+import Hello from "./Hello";
 
 export default function app()
 {
   return(
-    <BasicForm></BasicForm>
+    <Hello></Hello>
   );
 }
