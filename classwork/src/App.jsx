@@ -1,7 +1,7 @@
-import Line from "./day-2/Line";
+import Message from "./day-3/Message";
 export default function app()
 {
   return(
-    <Line></Line>
+    <Message></Message>
   );
 }
